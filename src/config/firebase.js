@@ -10,7 +10,7 @@ import 'firebase/compat/storage';
 // import 'firebase/storage'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB6YbpRt6j0CGNyrkGKZcuxmFP8NQ3IvIQ",
+    apiKey: "",
     authDomain: "khaaki-e9d3a.firebaseapp.com",
     projectId: "khaaki-e9d3a",
     storageBucket: "khaaki-e9d3a.appspot.com",
